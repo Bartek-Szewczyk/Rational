@@ -1,0 +1,9 @@
+C:\Users\48601\Desktop\RationalLab2\RationalLib\bin\Debug\netstandard2.1\RationalLib.deps.json
+C:\Users\48601\Desktop\RationalLab2\RationalLib\bin\Debug\netstandard2.1\RationalLib.dll
+C:\Users\48601\Desktop\RationalLab2\RationalLib\bin\Debug\netstandard2.1\RationalLib.pdb
+C:\Users\48601\Desktop\RationalLab2\RationalLib\obj\Debug\netstandard2.1\RationalLib.csprojAssemblyReference.cache
+C:\Users\48601\Desktop\RationalLab2\RationalLib\obj\Debug\netstandard2.1\RationalLib.AssemblyInfoInputs.cache
+C:\Users\48601\Desktop\RationalLab2\RationalLib\obj\Debug\netstandard2.1\RationalLib.AssemblyInfo.cs
+C:\Users\48601\Desktop\RationalLab2\RationalLib\obj\Debug\netstandard2.1\RationalLib.csproj.CoreCompileInputs.cache
+C:\Users\48601\Desktop\RationalLab2\RationalLib\obj\Debug\netstandard2.1\RationalLib.dll
+C:\Users\48601\Desktop\RationalLab2\RationalLib\obj\Debug\netstandard2.1\RationalLib.pdb

@@ -18,6 +18,7 @@ namespace RationalConsoleApp
             Console.WriteLine(w);
             Console.WriteLine(v);
             Console.WriteLine(x);
+            
 
         }
     }

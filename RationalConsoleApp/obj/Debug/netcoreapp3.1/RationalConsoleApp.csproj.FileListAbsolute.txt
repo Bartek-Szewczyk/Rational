@@ -14,3 +14,19 @@ C:\Users\48601\Desktop\RationalLab2\RationalConsoleApp\obj\Debug\netcoreapp3.1\R
 C:\Users\48601\Desktop\RationalLab2\RationalConsoleApp\obj\Debug\netcoreapp3.1\RationalConsoleApp.dll
 C:\Users\48601\Desktop\RationalLab2\RationalConsoleApp\obj\Debug\netcoreapp3.1\RationalConsoleApp.pdb
 C:\Users\48601\Desktop\RationalLab2\RationalConsoleApp\obj\Debug\netcoreapp3.1\RationalConsoleApp.genruntimeconfig.cache
+C:\Users\48601\Desktop\Studia 3 Semestr\Programowanie Obiekowe\Rational\RationalConsoleApp\bin\Debug\netcoreapp3.1\RationalConsoleApp.exe
+C:\Users\48601\Desktop\Studia 3 Semestr\Programowanie Obiekowe\Rational\RationalConsoleApp\bin\Debug\netcoreapp3.1\RationalConsoleApp.deps.json
+C:\Users\48601\Desktop\Studia 3 Semestr\Programowanie Obiekowe\Rational\RationalConsoleApp\bin\Debug\netcoreapp3.1\RationalConsoleApp.runtimeconfig.json
+C:\Users\48601\Desktop\Studia 3 Semestr\Programowanie Obiekowe\Rational\RationalConsoleApp\bin\Debug\netcoreapp3.1\RationalConsoleApp.runtimeconfig.dev.json
+C:\Users\48601\Desktop\Studia 3 Semestr\Programowanie Obiekowe\Rational\RationalConsoleApp\bin\Debug\netcoreapp3.1\RationalConsoleApp.dll
+C:\Users\48601\Desktop\Studia 3 Semestr\Programowanie Obiekowe\Rational\RationalConsoleApp\bin\Debug\netcoreapp3.1\RationalConsoleApp.pdb
+C:\Users\48601\Desktop\Studia 3 Semestr\Programowanie Obiekowe\Rational\RationalConsoleApp\bin\Debug\netcoreapp3.1\RationalLib.dll
+C:\Users\48601\Desktop\Studia 3 Semestr\Programowanie Obiekowe\Rational\RationalConsoleApp\bin\Debug\netcoreapp3.1\RationalLib.pdb
+C:\Users\48601\Desktop\Studia 3 Semestr\Programowanie Obiekowe\Rational\RationalConsoleApp\obj\Debug\netcoreapp3.1\RationalConsoleApp.csprojAssemblyReference.cache
+C:\Users\48601\Desktop\Studia 3 Semestr\Programowanie Obiekowe\Rational\RationalConsoleApp\obj\Debug\netcoreapp3.1\RationalConsoleApp.AssemblyInfoInputs.cache
+C:\Users\48601\Desktop\Studia 3 Semestr\Programowanie Obiekowe\Rational\RationalConsoleApp\obj\Debug\netcoreapp3.1\RationalConsoleApp.AssemblyInfo.cs
+C:\Users\48601\Desktop\Studia 3 Semestr\Programowanie Obiekowe\Rational\RationalConsoleApp\obj\Debug\netcoreapp3.1\RationalConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\48601\Desktop\Studia 3 Semestr\Programowanie Obiekowe\Rational\RationalConsoleApp\obj\Debug\netcoreapp3.1\RationalConsoleApp.csproj.CopyComplete
+C:\Users\48601\Desktop\Studia 3 Semestr\Programowanie Obiekowe\Rational\RationalConsoleApp\obj\Debug\netcoreapp3.1\RationalConsoleApp.dll
+C:\Users\48601\Desktop\Studia 3 Semestr\Programowanie Obiekowe\Rational\RationalConsoleApp\obj\Debug\netcoreapp3.1\RationalConsoleApp.pdb
+C:\Users\48601\Desktop\Studia 3 Semestr\Programowanie Obiekowe\Rational\RationalConsoleApp\obj\Debug\netcoreapp3.1\RationalConsoleApp.genruntimeconfig.cache

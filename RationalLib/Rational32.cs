@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel;
 using System.Security.Cryptography.X509Certificates;
 
 namespace RationalLib
@@ -28,7 +29,7 @@ namespace RationalLib
         #region ctor's
         static Rational32()
         {
-            ZERO =new Rational32(0,1);
+            ZERO = new Rational32(0, 1);
             One = new Rational32(1, 1);
             Half = new Rational32(1, 2);
         }
@@ -39,7 +40,38 @@ namespace RationalLib
             this.numerator = numerator;
             this.denominator = denominator;
 
+            if (denominator < 0 && numerator > 0)
+            {
+                this.denominator = -denominator;
+                this.numerator = -numerator;
+            }
+            else if (denominator < 0 && numerator < 0)
+            {
+                this.denominator = -denominator;
+                this.numerator = -numerator;
+            }
+
+
+            int nwd = 0;
+            for (int x = 1; x <= this.denominator; x++)
+            {
+                if ((this.numerator % x == 0) && (this.denominator % x == 0))
+                {
+                    nwd = x;
+                }
+            }
+            if (nwd == 0)
+            {
+                return;
+            }
+            else
+            {
+                this.numerator /= nwd;
+                this.denominator /= nwd;
+            }
+
         }
+
 
         #endregion
 

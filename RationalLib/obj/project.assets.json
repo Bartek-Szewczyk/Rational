@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\RationalLab2\\RationalLib\\RationalLib.csproj",
+      "projectUniqueName": "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\Rational\\RationalLib\\RationalLib.csproj",
       "projectName": "RationalLib",
-      "projectPath": "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\RationalLab2\\RationalLib\\RationalLib.csproj",
+      "projectPath": "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\Rational\\RationalLib\\RationalLib.csproj",
       "packagesPath": "C:\\Users\\48601\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\RationalLab2\\RationalLib\\obj\\",
+      "outputPath": "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\Rational\\RationalLib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

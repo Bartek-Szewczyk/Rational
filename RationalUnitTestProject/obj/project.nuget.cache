@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FM6IG8T/DMM3SZIwZADTQB59LBkxoQlZNL2PXqtHerJGKqwFrz2FW+h/NB8y8d0Bbc2+il1k4eMhw8ELFXkLAA==",
+  "dgSpecHash": "Rw9GTomVfRk7fwckEuiEQ2x9mQB+AQrNwPkQhRMvk+hhNuuC/x52e0LXDo2w2yrl7hxA3b5zh5sow3ReImJ/vA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\RationalLab2\\RationalUnitTestProject\\RationalUnitTestProject.csproj",
+  "projectFilePath": "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\Rational\\RationalUnitTestProject\\RationalUnitTestProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\48601\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\48601\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

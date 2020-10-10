@@ -5738,11 +5738,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\RationalLab2\\RationalUnitTestProject\\RationalUnitTestProject.csproj",
+      "projectUniqueName": "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\Rational\\RationalUnitTestProject\\RationalUnitTestProject.csproj",
       "projectName": "RationalUnitTestProject",
-      "projectPath": "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\RationalLab2\\RationalUnitTestProject\\RationalUnitTestProject.csproj",
+      "projectPath": "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\Rational\\RationalUnitTestProject\\RationalUnitTestProject.csproj",
       "packagesPath": "C:\\Users\\48601\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\RationalLab2\\RationalUnitTestProject\\obj\\",
+      "outputPath": "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\Rational\\RationalUnitTestProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -5762,8 +5762,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\RationalLab2\\RationalLib\\RationalLib.csproj": {
-              "projectPath": "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\RationalLab2\\RationalLib\\RationalLib.csproj"
+            "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\Rational\\RationalLib\\RationalLib.csproj": {
+              "projectPath": "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\Rational\\RationalLib\\RationalLib.csproj"
             }
           }
         }

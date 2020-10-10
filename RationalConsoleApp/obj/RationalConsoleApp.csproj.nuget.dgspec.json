@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\RationalLab2\\RationalConsoleApp\\RationalConsoleApp.csproj": {}
+    "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\Rational\\RationalConsoleApp\\RationalConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\RationalLab2\\RationalConsoleApp\\RationalConsoleApp.csproj": {
+    "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\Rational\\RationalConsoleApp\\RationalConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\RationalLab2\\RationalConsoleApp\\RationalConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\Rational\\RationalConsoleApp\\RationalConsoleApp.csproj",
         "projectName": "RationalConsoleApp",
-        "projectPath": "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\RationalLab2\\RationalConsoleApp\\RationalConsoleApp.csproj",
+        "projectPath": "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\Rational\\RationalConsoleApp\\RationalConsoleApp.csproj",
         "packagesPath": "C:\\Users\\48601\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\RationalLab2\\RationalConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\Rational\\RationalConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -31,8 +31,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\RationalLab2\\RationalLib\\RationalLib.csproj": {
-                "projectPath": "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\RationalLab2\\RationalLib\\RationalLib.csproj"
+              "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\Rational\\RationalLib\\RationalLib.csproj": {
+                "projectPath": "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\Rational\\RationalLib\\RationalLib.csproj"
               }
             }
           }
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\RationalLab2\\RationalLib\\RationalLib.csproj": {
+    "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\Rational\\RationalLib\\RationalLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\RationalLab2\\RationalLib\\RationalLib.csproj",
+        "projectUniqueName": "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\Rational\\RationalLib\\RationalLib.csproj",
         "projectName": "RationalLib",
-        "projectPath": "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\RationalLab2\\RationalLib\\RationalLib.csproj",
+        "projectPath": "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\Rational\\RationalLib\\RationalLib.csproj",
         "packagesPath": "C:\\Users\\48601\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\RationalLab2\\RationalLib\\obj\\",
+        "outputPath": "C:\\Users\\48601\\Desktop\\Studia 3 Semestr\\Programowanie Obiekowe\\Rational\\RationalLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

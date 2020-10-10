@@ -11,7 +11,7 @@ namespace RationalUnitTestProject
         [DataRow(1,2, 1,2)]
         [DataRow(-2,3,-2,3)]
         [DataRow(2, -3,-2,3)]
-        [DataRow(-2,-2,-2,3)]
+        [DataRow(-2,-2,2,3)]
         [DataRow(2,4,1,2)]
         public void TKonstrukterDwuArgumentowy_Poprawnie(int l, int m, int ExpectedNumerator, int ExpectedDominator)
         {
